@@ -79,7 +79,7 @@ const AppointmentSuccess = async ({
           </Link>
         </Button>
 
-        <p className="copyright">© 2024 CarePluse</p>
+        <p className="copyright">© 2024 WiseHealth</p>
       </div>
     </div>
   );
